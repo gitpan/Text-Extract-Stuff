@@ -1,0 +1,6 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/Text-Extract-Stuff.t
+lib/Text/Extract/Stuff.pm
